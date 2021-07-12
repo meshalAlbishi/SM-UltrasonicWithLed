@@ -28,7 +28,7 @@ In our case, tinkercar does not support teh bluetooth, I will replace it with a 
 
 
 ## Preview
-Available to demo using Tinkercad form [here](https://www.tinkercad.com/things/hg4PH2vk2rl-copy-ultrasonic-with-led/editel?sharecode=jD7_DpQQmyp7RCIqu91rEdGO9Nv35ftILLl24K2Gncg).
+Available to demo using Tinkercad form [here](https://www.tinkercad.com/things/hg4PH2vk2rl).
 
 
 ![](https://github.com/meshalAlbishi/SM-UltrasonicWithLed/blob/main/Ultrasonic%20Diagram.jpg)
